@@ -35,4 +35,4 @@ python app.py
 
 ---
 
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Gayathri-Manjunath](https://github.com/Gayathri-Manjunath)
